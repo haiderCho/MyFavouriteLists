@@ -16,7 +16,9 @@ body {
 
 ::-webkit-scrollbar-thumb {
     background-color: #b0004c;
-    background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0) 35%, transparent 35%, transparent 60%, rgba(255, 255, 255, .2) 60%, rgba(255, 255, 255, .2) 75%, transparent 75%, transparent);
+    background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0) 35%,
+    transparent 35%, transparent 60%, rgba(255, 255, 255, .2) 60%, rgba(255, 255, 255, .2) 75%,
+    transparent 75%, transparent);
 }
 
 ::-webkit-scrollbar-track {
@@ -632,7 +634,8 @@ textarea, label {
     color: #fff;
 }
 
-.page-home .hexagon-item:nth-last-child(1), .page-home .hexagon-item:nth-last-child(2), .page-home .hexagon-item:nth-last-child(3) {
+.page-home .hexagon-item:nth-last-child(1), .page-home .hexagon-item:nth-last-child(2),
+.page-home .hexagon-item:nth-last-child(3) {
     -webkit-transform: rotate(30deg) translate(87px, -80px);
     -moz-transform: rotate(30deg) translate(87px, -80px);
     -ms-transform: rotate(30deg) translate(87px, -80px);
@@ -741,7 +744,8 @@ textarea, label {
         margin-left: auto;
     }
 
-    .page-home .hexagon-item:nth-last-child(1), .page-home .hexagon-item:nth-last-child(2), .page-home .hexagon-item:nth-last-child(3) {
+    .page-home .hexagon-item:nth-last-child(1), .page-home .hexagon-item:nth-last-child(2),
+    .page-home .hexagon-item:nth-last-child(3) {
         -webkit-transform: rotate(30deg) translate(0px, 0px);
         -moz-transform: rotate(30deg) translate(0px, 0px);
         -ms-transform: rotate(30deg) translate(0px, 0px);
