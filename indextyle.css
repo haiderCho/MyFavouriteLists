@@ -15,7 +15,7 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: #b0004c;
+    background-color: #ffa7cd;
     background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0) 35%,
     transparent 35%, transparent 60%, rgba(255, 255, 255, .2) 60%, rgba(255, 255, 255, .2) 75%,
     transparent 75%, transparent);
@@ -31,7 +31,7 @@ body {
     font-size: 43px;
     font-weight: bolder;
     font-family: 'Rancho', cursive;
-    color: #b0004c;
+    color: #ffa7cd;
     text-align: center;
     width: 100%;
     letter-spacing: 3px;
@@ -662,7 +662,7 @@ textarea, label {
     font-size: 55px;
     font-weight: bolder;
     font-family: 'Rancho', cursive;
-    color: #b0004c;
+    color: #ffa7cd;
     text-align: center;
     width: 100%;
     padding-bottom: 15px;

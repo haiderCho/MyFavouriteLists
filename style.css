@@ -238,8 +238,8 @@ p {
 .anime-image {
     width: 15vw;
     height: 22vw;
-    border: .85vw solid var(--color-primary-dark);
-    border-radius: .5vw;
+    border: .75vw solid var(--color-primary-dark);
+    border-radius: .35vw;
     background-color: var(--color-primary);
     background-position: center;
     background-repeat: no-repeat;
@@ -253,16 +253,14 @@ p {
 }
 
 .manga-image {
-    width: 14vw;
+    width: 15vw;
     height: 22vw;
-    border: 1vw solid var(--color-primary-dark);
-    border-radius: 1vw;
-
+    border: .75vw solid var(--color-primary-dark);
+    border-radius: .35vw;
     background-color: var(--color-primary);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-
     margin: 0 auto;
 }
 
